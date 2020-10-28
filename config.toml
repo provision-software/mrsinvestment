@@ -1,0 +1,94 @@
+baseURL = "localhost:1313/"
+languageCode = "en-us"
+title = "MRS Investment Properties LLC"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+#[[menu.main]]
+#name    = "Service"
+#url     = "service"
+#weight  = 3
+#[[menu.main]]
+#name    = "Gallery"
+#url     = "gallery"
+#weight  = 4
+#[[menu.main]]
+#name    = "Blog"
+#url     = "blog"
+#weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/logo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "MRS Investment Properties LLC is a commercial real estate investment company in Ohio."
+author = "Provision Software LLC"
+# Google Analitycs
+googleAnalitycsID = ""
+# contact form action
+contactFormAction = "#" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/background.jpg"
+heading = "MRS Investment Properties LLC"
+description = "We invest in commercial real estate in north east Ohio, focusing on apartment buildings and retail and office space."
+# button
+btn     = true
+btnText = "Contact Us"
+btnURL  = "/contact"
+
+# flip text
+[[params.banner.flipText]]
+title   = "Commercial Real Estate"
+[[params.banner.flipText]]
+title   = "Apartments"
+[[params.banner.flipText]]
+title   = "Retail/Office"
+
+# Homepage About Section
+[params.about]
+enable  = true
+title   = "About Us"
+content = "MRS Investment Properties LLC is a commercial real estate investment company based in north east Ohio. We focus on apartment buildings and small to medium retail and office buildings. <br> <br> Our mission is to provide quality apartments that are safe and comfortable as well as to provide the best possible location and space for retail and office tenants."
+image   = "images/about/apartment-building.jpg"
+
+# Call to Action
+[params.cta]
+enable  = true
+title   = "Contact Us"
+content = "Are you a private investor interested in investing with us? Are you interested in selling your property? Please reach out to us today!"
+btnText = "Contact Us"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+[params.portfolio]
+enable  = false
+title   = "Latest Works"
+subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+[[params.socialIcon]]
+icon = "ion-social-facebook"
+url = "http://www.facebook.com/provisionsoftwarellc"
+
+[[params.socialIcon]]
+icon = "ion-social-instagram"
+url = "http://www.instagram.com/provision.software"
+
+[[params.socialIcon]]
+icon = "ion-social-twitter"
+url = "http://www.twitter.com/provisionsoftw1"
