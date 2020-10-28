@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contact on MRS Investment Properties LLC</title>
-    <link>/mrsinvest/contact/</link>
+    <link>http://provision-software.github.io/mrsinvest/contact/</link>
     <description>Recent content in Contact on MRS Investment Properties LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Jul 2018 17:09:20 +0600</lastBuildDate>
     
-	<atom:link href="/mrsinvest/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://provision-software.github.io/mrsinvest/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
