@@ -1,4 +1,4 @@
-baseURL = "localhost:1313/"
+baseURL = "/mrsinvest/"
 languageCode = "en-us"
 title = "MRS Investment Properties LLC"
 theme = "timer-hugo"

@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MRS Investment Properties LLC</title>
-    <link>localhost:1313/tags/</link>
+    <link>/mrsinvest/tags/</link>
     <description>Recent content in Tags on MRS Investment Properties LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 15 Jul 2018 12:29:40 +0600</lastBuildDate>
     
-	<atom:link href="localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/mrsinvest/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>inspiration</title>
-      <link>localhost:1313/tags/inspiration/</link>
+      <link>/mrsinvest/tags/inspiration/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>localhost:1313/tags/inspiration/</guid>
+      <guid>/mrsinvest/tags/inspiration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>motivation</title>
-      <link>localhost:1313/tags/motivation/</link>
+      <link>/mrsinvest/tags/motivation/</link>
       <pubDate>Sun, 15 Jul 2018 12:29:40 +0600</pubDate>
       
-      <guid>localhost:1313/tags/motivation/</guid>
+      <guid>/mrsinvest/tags/motivation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>internet</title>
-      <link>localhost:1313/tags/internet/</link>
+      <link>/mrsinvest/tags/internet/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>localhost:1313/tags/internet/</guid>
+      <guid>/mrsinvest/tags/internet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tech</title>
-      <link>localhost:1313/tags/tech/</link>
+      <link>/mrsinvest/tags/tech/</link>
       <pubDate>Sun, 15 Jul 2018 12:27:38 +0600</pubDate>
       
-      <guid>localhost:1313/tags/tech/</guid>
+      <guid>/mrsinvest/tags/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>business</title>
-      <link>localhost:1313/tags/business/</link>
+      <link>/mrsinvest/tags/business/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>localhost:1313/tags/business/</guid>
+      <guid>/mrsinvest/tags/business/</guid>
       <description></description>
     </item>
     
     <item>
       <title>people</title>
-      <link>localhost:1313/tags/people/</link>
+      <link>/mrsinvest/tags/people/</link>
       <pubDate>Sun, 15 Jul 2018 12:21:58 +0600</pubDate>
       
-      <guid>localhost:1313/tags/people/</guid>
+      <guid>/mrsinvest/tags/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>install</title>
-      <link>localhost:1313/tags/install/</link>
+      <link>/mrsinvest/tags/install/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
-      <guid>localhost:1313/tags/install/</guid>
+      <guid>/mrsinvest/tags/install/</guid>
       <description></description>
     </item>
     
