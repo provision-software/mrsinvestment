@@ -1,4 +1,4 @@
-baseURL = "http://provision-software.github.io/mrsinvest/docs/"
+baseURL = "http://provision-software.github.io/mrsinvestment/"
 languageCode = "en-us"
 title = "MRS Investment Properties LLC"
 theme = "timer-hugo"

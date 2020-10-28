@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>install on MRS Investment Properties LLC</title>
-    <link>http://provision-software.github.io/mrsinvest/docs/tags/install/</link>
+    <link>http://provision-software.github.io/mrsinvestment/tags/install/</link>
     <description>Recent content in install on MRS Investment Properties LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate>
     
-	<atom:link href="http://provision-software.github.io/mrsinvest/docs/tags/install/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://provision-software.github.io/mrsinvestment/tags/install/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How To Setup Timer Hugo</title>
-      <link>http://provision-software.github.io/mrsinvest/docs/blog/installation/</link>
+      <link>http://provision-software.github.io/mrsinvestment/blog/installation/</link>
       <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
       
-      <guid>http://provision-software.github.io/mrsinvest/docs/blog/installation/</guid>
+      <guid>http://provision-software.github.io/mrsinvestment/blog/installation/</guid>
       <description>Install this template by following those simple steps: STEP-1 : Hugo installation Check this link below for install hugo on your computer. hugo install documentation
 STEP-2 : Create your project Hugo provides a new command to create a new website.
 hugo new site &amp;lt;new_project&amp;gt; STEP-3 : Install the theme Run this command
